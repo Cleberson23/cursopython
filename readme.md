@@ -1,4 +1,4 @@
-#Sistema de jogos#
+# Sistema de jogos #
 
 > status do projeto em desenvolvimento
 
